@@ -25,6 +25,7 @@ public class homework {
    System.out.println(arr1[a] +" "+arr2[a]);
    System.out.println("commit_1");  
    System.out.println("commit_2");  
+   System.out.println("commit_3"); 
   }
   scan.close();
  }
